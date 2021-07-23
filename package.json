@@ -7,7 +7,6 @@
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
     "antd": "^4.16.8",
-    "gh-pages": "^3.2.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-icons": "^4.2.0",
@@ -43,5 +42,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://SSW20.github.io/ShoppingMall/"
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  },
+  "homepage": "https://zzambas.github.io/shoppingMall/"
 }
