@@ -1,0 +1,26 @@
+.Parent{
+    width:90%;
+    margin: auto;
+    border-left: 5px double lightgrey;
+    border-right: 5px double lightgrey;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.Parent .list_outline{
+    display: flex;
+    justify-content: space-between;
+}
+
+.list_name{
+    margin:auto;
+    padding: 0.4rem;
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+
+.filtering{
+    margin: 5px;
+    display: flex;
+    align-items: center;
+}
