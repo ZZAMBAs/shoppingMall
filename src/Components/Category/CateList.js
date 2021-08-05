@@ -3,7 +3,7 @@ import cate1 from "../../images/1.jpg"
 import cate2 from "../../images/test.jpg"
 import bicycle from "../../images/cate_img_bycicle.jpg"
 import ImgBox from "./ImgBox";
-import './Category.css'
+import './CateList.css'
 
 function CateList() {
 

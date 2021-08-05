@@ -1,0 +1,28 @@
+.others_seller .profile{
+    width: 80px;
+    margin-bottom: 10px;
+    border-radius: 70%;
+}
+
+.others_seller .seller{
+    width: 20%;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    float: left;
+}
+
+.others_seller .others_sell{
+    width: 80%;
+    height: 250px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.others_cate{
+    height: 250px;
+    display: flex;
+    justify-content: space-between;
+}

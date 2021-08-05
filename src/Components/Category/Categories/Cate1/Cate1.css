@@ -1,8 +1,8 @@
 .Parent{
-    width:90%;
+    width:80%;
     margin: auto;
-    border-left: 5px double lightgrey;
-    border-right: 5px double lightgrey;
+    border-left: 5px double wheat;
+    border-right: 5px double wheat;
     padding-left: 1rem;
     padding-right: 1rem;
 }

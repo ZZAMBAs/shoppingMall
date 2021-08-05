@@ -17,7 +17,7 @@ export default function App() {
       <Switch>
         <Route exact path="/ShoppingMall" component={LandingPage} />
         <Route exact path="/event" component={Event} />
-        <Route exact path="/category" component={Category} />
+        <Route path="/category" component={Category} />
         <Route exact path="/selling" component={Selling} />
         <Route exact path="/basket" component={Basket} />
         <Route exact path="/support" component={Support} />
